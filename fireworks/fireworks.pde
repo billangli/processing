@@ -13,7 +13,7 @@ int count = 0;
 final int SD_CYCLE = 500;
 
 int generation = 0;
-int[] generationTime = {200, 180, 240, 140};
+int[] generationTime = {200, 200, 200, 140};
 int[] generationSpeed = {800, 700, 600, 200};
 final int MAX_GENERATION = 3;
 
